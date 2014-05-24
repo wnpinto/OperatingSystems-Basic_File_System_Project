@@ -1,0 +1,20 @@
+3	 R	 [35 blocks] [17920 size] Success
+7	 D	 [26 blocks] [13312 size] Success
+3	 D	 [35 blocks] [17920 size] Success
+2	 W	 [38 blocks] [19456 size] Success
+6	 W	 [27 blocks] [13824 size] Success
+5	 W	 [15 blocks] [7680 size] Success
+4	 R	 [31 blocks] [15872 size] Success
+2	 R	 [38 blocks] [19456 size] Success
+4	 R	 [31 blocks] [15872 size] Success
+4	 W	 [31 blocks] [15872 size] Success - New node created.
+7	 W	 [37 blocks] [18944 size] Success
+5	 W	 [40 blocks] [20480 size] Success
+5	 W	 [40 blocks] [20480 size] Success - New node created.
+1	 D	 [0] [0] FAILED - No such file...
+7	 W	 [37 blocks] [18944 size] Success - New node created.
+6	 D	 [23 blocks] [11776 size] Success
+5	 W	 [40 blocks] [20480 size] Success - New node created.
+7	 R	 [37 blocks] [18944 size] Success
+6	 D	 [0] [0] FAILED - No such file...
+1	 W	 [39 blocks] [19968 size] Success
